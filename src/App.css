@@ -1,0 +1,29 @@
+ul{
+  display: flex;
+  direction: row;
+  justify-content: end;
+  list-style: none;
+  background-color: aquamarine;
+  margin: 0;
+  padding: 2em 0;
+}
+
+ul li{
+margin: 0 2em;
+color: red;
+font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+}
+
+img{
+  background-size: cover;
+  width: 450px;
+  height: 200px;
+   margin-top: 2em;
+}
+p{
+  margin-top: 3em;
+}
